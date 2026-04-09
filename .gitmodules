@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/arkraieski/arkraieski.r-universe.dev
 	branch = HEAD
+[submodule "lightweightchartR"]
+	path = lightweightchartR
+	url = https://github.com/arkraieski/lightweightchartR
+[submodule "llamacppR"]
+	path = llamacppR
+	url = https://github.com/arkraieski/llamacppR
+[submodule "plotjs"]
+	path = plotjs
+	url = https://github.com/arkraieski/plotjs
